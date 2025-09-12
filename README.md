@@ -10,4 +10,3 @@ I created this project to [briefly explain purpose]. It solves [specific problem
 
 ## Key Focus Areas
 - Primary goal I achieved: [main accomplishment]
-- Unique value I provide: [key differentiator]
